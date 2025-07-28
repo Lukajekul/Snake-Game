@@ -17,7 +17,9 @@ The snake can't go into itelf, so you can't make a 180-degree turn instantly
 
 ## Screenshot 
 Include a screenshot of the game window:
-![Snake Game Screenshot](Snakegame.png)
+<p align="center">
+  <img src="Snakegame.png" alt="Snake Game Screenshot">
+</p>
 
 ## Requirements
 ```
