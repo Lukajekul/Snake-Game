@@ -1,5 +1,5 @@
 # Snake-Game
-A simple snake game, created as part of Udemy's 100 day Python course
+A simple snake game created as part of Udemy's 100 Day of Code: Python Bootcamp by Dr. Angela Yu.
 
 ## Features
 - Move across the screen
@@ -30,8 +30,8 @@ Include a screenshot of the game window:
 ## Installation 
 Clone the repository:
 ```
-git clone https://github.com/Lukajekul/Snake-Game.git
-cd Snake-Game
+git clone https://github.com/Lukajekul/Snake_Game_-_Udemy_Course_Practice.git
+cd Snake_Game_-_Udemy_Course_Practice
 ```
 
 ## Usage
